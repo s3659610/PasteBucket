@@ -1,0 +1,48 @@
+.globalPasteHeader{
+    color:#E0E1DD;
+    font-size: 30px;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+#login_con_inner{
+    width: 95%;
+    overflow: auto;
+}
+#login_con{
+    max-height: 700px;
+    padding:5px;
+    width: 90%;
+    overflow: auto;
+}
+.global_posts{
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+.global_posts li {
+    text-decoration: none;
+    list-style-type: none;
+    color:#E0E1DD;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    margin-top: 15px;
+    border-bottom: 1px solid #415A77 ;
+    padding-bottom: 10px;
+}
+.global_posts li:hover {
+    text-decoration: none;
+    list-style-type: none;
+    color:#E0E1DD;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    margin-top: 15px;
+    border-bottom: 1px solid #4CAF50 ;
+    padding-bottom: 10px;
+    cursor: grab;
+}
+.global_posts li label:hover {
+        cursor: grab;
+}
